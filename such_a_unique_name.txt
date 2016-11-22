@@ -1,3 +1,7 @@
 Hi!
+<<<<<<< HEAD
 this is an edit
 Not a haiku.
+=======
+this is an edit
+>>>>>>> c918d01e64a2e23b98bbdd761dcbd0360fc022c3
